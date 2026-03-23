@@ -5,7 +5,7 @@ from .corrector import Corrector
 def print_header():
     """Prints a styled header for the CLI."""
     print()
-    print(colored("  Type 'quit' to exit | 'verbose' to toggle candidate breakdown", "dark_grey"))
+    print(colored("  \nType 'quit' to exit | 'verbose' to toggle candidate breakdown", "dark_grey"))
     print(colored("─" * 65, "dark_grey"))
     print()
 
