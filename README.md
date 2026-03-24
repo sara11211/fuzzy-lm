@@ -2,7 +2,7 @@
 
 Sentence correction using N-Gram language models with optional fuzzy matching.
 
-<img src="https://i.imgur.com/nl6CNw9.png" width="600" align="center"/>
+<img src="https://i.imgur.com/nl6CNw9.png" width="80%" align="center"/>
 
 ## About
 
