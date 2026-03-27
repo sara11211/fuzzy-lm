@@ -6,9 +6,7 @@ Sentence correction using N-Gram language models with optional fuzzy matching.
 
 ## About
 
-> This project is a **tweaked version** of the N-Gram NLP lab done as part of the NLP course at **ESI**.  
-> Trained on a subset of [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) from Hugging Face for demonstration purpose.  
-> The subset is relatively small so correction may not always be accurate and the model is **not highly efficient** for large-scale text.  
+> This project is a **tweaked version** of the N-Gram NLP lab done as part of the NLP course at **ESI**. Trained on a subset of [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) from Hugging Face for demonstration purpose. The subset is relatively small so correction may not always be accurate and the model is **not highly efficient** for large-scale text.  
 
 ## Features
 
